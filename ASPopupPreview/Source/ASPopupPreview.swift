@@ -1,8 +1,7 @@
 //
 //  ASPopupPreview.swift
-//  3DTouchTemplate
 //
-//  Created by kapilmac on 20/01/21.
+//  Created by Saurabh on 20/01/21.
 //  Copyright © 2021 Saurabh . All rights reserved.
 //
 
