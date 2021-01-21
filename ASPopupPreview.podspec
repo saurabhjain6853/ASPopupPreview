@@ -11,7 +11,7 @@ spec.homepage     = "http://ioschamp.com"
 spec.license      = { :type => "MIT", :file => "LICENSE" }
 spec.author             = { "Saurabh Jain" => "saurabh.jain6853@gmail.com", "Arpita Shringi" => "arpitashringi24@gmail.com" }
 spec.platform     = :ios, "12.0"
-spec.source       = { :http => 'file:' + __dir__ + "/" }
+spec.source       = { :git => "https://github.com/saurabhjain6853/ASPopupPreview.git", :tag => "#{spec.version}" }
 spec.swift_version = "5.0"
 spec.source_files  = "ASPopupPreview/Source/*.{swift}"
 
