@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  ASPopupPreviewExample
 //
-//  Created by kapilmac on 21/01/21.
 //
 
 import UIKit

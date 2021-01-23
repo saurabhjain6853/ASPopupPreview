@@ -1,14 +1,7 @@
-//
-//  ASPopupPreview.swift
-//
-//  Created by Saurabh on 20/01/21.
-//  Copyright © 2021 Saurabh . All rights reserved.
-//
-
 import UIKit
 
 public protocol ASPopupPreviewDelegate {
-    func previewView(location:CGPoint) -> UIViewController?
+func previewView(location:CGPoint) -> UIViewController?
 }
 
 public class ASPopupPreview: NSObject {

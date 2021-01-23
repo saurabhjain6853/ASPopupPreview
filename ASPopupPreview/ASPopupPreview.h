@@ -1,10 +1,3 @@
-//
-//  ASPopupPreview.h
-//  ASPopupPreview
-//
-//  Created by kapilmac on 21/01/21.
-//
-
 #import <Foundation/Foundation.h>
 
 //! Project version number for ASPopupPreview.
